@@ -4,23 +4,18 @@
 this is a shooting game loosely based on ironman.
 -----------------------------------------------------------
 
-plot:_--------
-    iron man saving the day
+*plot* -->
+    - iron man saving the day
 
 
-    lots of shooting
+    - lots of shooting
     
     
-    cool sounds
+    - cool sounds
     
     
-    play to find out
-    
-    
-    full of bugs
-    
-    
-if you find one,keep it to yourself
+    - play to find out
+  
 
 
 images created using sprites from sprite sheet and edited using GIMP
